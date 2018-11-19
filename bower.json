@@ -1,0 +1,20 @@
+{
+  "name": "euler",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "3.3.0",
+    "purescript-console": "3.0.0",
+    "purescript-lists": "^4.12.0",
+    "purescript-naturals": "^2.2.0",
+    "purescript-bigints": "^3.5.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "3.0.0",
+    "purescript-test-unit": "^12.0.0"
+  }
+}
